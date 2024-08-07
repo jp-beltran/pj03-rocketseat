@@ -1,4 +1,4 @@
- Projeto Flutuar - Destinos de Viagem
+# Projeto Flutuar - Destinos de Viagem
 
 Este é um projeto de página web criado como parte do curso Explorer da Rocketseat. A página apresenta uma seleção de pacotes de viagem completos para férias, incluindo passagens aéreas, hotéis, café da manhã e seguro viagem com preços atraentes.
 
